@@ -1,1 +1,1 @@
-I am learning about GIT commands now.
+I am learning about GIT branching and merging now.
